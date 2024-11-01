@@ -1,7 +1,7 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Routes, useLocation } from "react-router-dom";
-import Header from "./components/Header"; // Import Header
-import Footer from "./components/Footer"; // Import Footer
+import Header from "./components/Header"; 
+import Footer from "./components/Footer"; 
 import Register from "./pages/Register";
 import LoginPage from "./pages/Login";
 import Beranda from "./pages/Beranda";

@@ -10,7 +10,7 @@ export default function Component() {
         {/* Featured Post */}
         <section className="relative h-[60vh] min-h-[500px] bg-gray-900">
           <img
-            src="/placeholder.svg?height=800&width=1600"
+            src="/images/family.JPG"
             alt="Featured post"
             className="object-cover opacity-70 w-full h-full"
           />
